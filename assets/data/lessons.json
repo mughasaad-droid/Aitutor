@@ -1,0 +1,37 @@
+[
+  {
+    "id": "daily_conversation",
+    "title": "Daily Conversation",
+    "description": "Common phrases for everyday talk",
+    "flashcards": [
+      {
+        "id": "1",
+        "word": "How are you?",
+        "meaning": "A greeting to ask about well-being",
+        "example": "How are you doing today?",
+        "difficulty": "easy"
+      },
+      {
+        "id": "2",
+        "word": "Thank you",
+        "meaning": "Expression of gratitude",
+        "example": "Thank you for your help.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "id": "business",
+    "title": "Business English",
+    "description": "Professional workplace vocabulary",
+    "flashcards": [
+      {
+        "id": "3",
+        "word": "Deadline",
+        "meaning": "The last date by which something must be completed",
+        "example": "The project deadline is next Friday.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]
